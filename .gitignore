@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+*.env
+.env.*
+
+# Database — contains real traffic/location data
+traffic.db
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Map tiles (large binary)
+*.pmtiles
+
+# OS
+.DS_Store
+Thumbs.db
