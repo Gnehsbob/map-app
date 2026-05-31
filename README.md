@@ -18,3 +18,9 @@ A hardware-accelerated 3D transit and cost calculator for Gauteng, South Africa.
 ## Required API Keys
 - Adzuna (jobs): https://developer.adzuna.com
 - TomTom (traffic): https://developer.tomtom.com
+
+## Screenshots
+
+![Map View](assets/screenshot.png)
+![Job Listings](assets/jobs.png)
+
